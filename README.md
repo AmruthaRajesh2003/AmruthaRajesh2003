@@ -10,6 +10,7 @@
 
 
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
@@ -44,7 +45,7 @@
 ## 🚀 Projects
 
 - 🏥 **Community Health Management System** — Django, MySQL
-- 🌫️ **Real-Time Air Quality Monitoring** — IoT, Python, Raspberry Pi
+- 🌫️ **Real-Time Air Quality Monitoring** — IoT, Python, ESP32 ,Data Visulaztion
 - 🌿 **Plant Shop E-Commerce** — Django, Bootstrap
 
 ---
