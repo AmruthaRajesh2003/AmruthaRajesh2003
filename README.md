@@ -60,13 +60,13 @@
 
 ## 📫 Connect with me
 
-[
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/amrutha-rajesh-9bb66b2a2)
-[
+(https://linkedin.com/in/amrutha-rajesh-9bb66b2a2)
+
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 
-](mailto:ramrutha84@gmail.com)
+(mailto:ramrutha84@gmail.com)
